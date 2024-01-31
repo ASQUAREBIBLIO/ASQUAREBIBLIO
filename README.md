@@ -54,7 +54,7 @@ Here are some ideas to get you started:
     <a href="mailto:achchatibiahmed07@gmail.com" target="_blank">
       <img src="https://img.shields.io/badge/-red?style=for-the-badge&logo=gmail&logoColor=f5f5f5" alt="gmail" />
     </a>
-    <a href="ttps://wa.me/212654978514" target="_blank">
+    <a href="https://wa.me/212654978514" target="_blank">
       <img src="https://img.shields.io/badge/-green?style=for-the-badge&logo=whatsapp&logoColor=f5f5f5" alt="whatsapp" />
     </a>
 </p>
