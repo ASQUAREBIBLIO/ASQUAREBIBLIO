@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### 👨‍💻 I'm ACH-CHATIBI AHMED 
+### 👨‍💻 I'm ACH-CHATIBI Ahmed
 
 🎓 Information Systems Engineering Student.
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ASQUAREBIBLIO&label=Profile%20views&color=blue&style=flat" alt="ach-chatibi_ahmed" /> </p>
