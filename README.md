@@ -3,7 +3,6 @@
 <br>👋 Hello! I'm ACH-CHATIBI Ahmed!<br>🎓 I'm a software engineer. I have a background in Information Systems Engineering, and I'm always eager to learn and explore new technologies and methodologies.<br>🌱 Currently, I'm Working On, and I'm excited to collaborate with like-minded individuals to push the boundaries of what's possible in the tech industry.<br>📫 Let's connect! Feel free to reach out to me.
 
 ### GitHub Stats
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ASQUAREBIBLIO&theme=buefy&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 ![](https://github-readme-stats.vercel.app/api?username=ASQUAREBIBLIO&theme=buefy&hide_border=false&include_all_commits=true&count_private=true)
 
 ### Tech Stack
