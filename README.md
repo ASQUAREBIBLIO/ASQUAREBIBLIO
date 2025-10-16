@@ -4,7 +4,7 @@
 
 🎓 I'm a **Software Engineer** with a background in **Information Systems Engineering**.  
 💡 Passionate about building robust, efficient, and maintainable web applications.  
-🌱 Currently working with **Laravel**, **Go**, and **Next.js**, and always open to learning new technologies.  
+🌱 Currently working with **Symfony**, **Laravel**, **Go**, and **Next.js**, and always open to learning new technologies.  
 🤝 Excited to collaborate with other developers and contribute to meaningful open-source projects.  
 📫 **Let's connect!**  
 Feel free to reach out or explore my repositories below.
