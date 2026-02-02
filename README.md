@@ -2,9 +2,9 @@
 [![](https://visitcount.itsvg.in/api?id=ASQUAREBIBLIO&icon=0&color=4)](https://visitcount.itsvg.in)
 # 👋 Hello! I'm Ahmed ACH-CHATIBI  
 
-🎓 I'm a **Software Engineer** with a background in **Information Systems Engineering**.  
+🎓 I'm a **Software Engineer**
 💡 Passionate about building robust, efficient, and maintainable web applications.  
-🌱 Currently working with **Symfony**, **Laravel**, **Go**, and **Next.js**, and always open to learning new technologies.  
+🌱 Currently working with **JavaScript**, **PHP**, **JAVA**, and always open to learning new technologies.  
 🤝 Excited to collaborate with other developers and contribute to meaningful open-source projects.   
 Feel free to reach out or explore my repositories below.
 
