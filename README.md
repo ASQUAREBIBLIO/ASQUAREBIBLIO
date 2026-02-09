@@ -3,10 +3,12 @@
 # 👋 Hello! I'm Ahmed ACH-CHATIBI  
 
 🎓 I'm a **Software Engineer**
-💡 Passionate about building robust, efficient, and maintainable web applications.  
-🌱 Currently working with **JavaScript**, **PHP**, **JAVA**, and always open to learning new technologies.  
+💡 Passionate about building robust, efficient, and maintainable web applications.    
 🤝 Excited to collaborate with other developers and contribute to meaningful open-source projects.   
 Feel free to reach out or explore my repositories below.
+
+### Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ahmed-ach-chatibi/) 
 
 ---
 
@@ -15,7 +17,9 @@ Feel free to reach out or explore my repositories below.
 
 ---
 
-### Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ahmed-ach-chatibi/) 
+### Recent Work
+
+- **[GuneUI](https://guneui.com)** — AI-powered landing page builder for React/Next.js applications.
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
