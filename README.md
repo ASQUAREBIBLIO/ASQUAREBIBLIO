@@ -8,7 +8,8 @@
 Feel free to reach out or explore my repositories below.
 
 ### Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ahmed-ach-chatibi/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/in/ahmed-ach-chatibi/) 
+[![Portfolio](https://img.shields.io/badge/Portfolio-%230077B5.svg?logo=linkedin&logoColor=white)](https://asquare.dev) 
 
 ---
 
