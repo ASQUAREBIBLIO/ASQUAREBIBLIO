@@ -1,8 +1,8 @@
 ### About Me
 [![](https://visitcount.itsvg.in/api?id=ASQUAREBIBLIO&icon=0&color=4)](https://visitcount.itsvg.in)
-# 👋 Hello! I'm Ahmed ACH-CHATIBI  
+# 👋 Hello! I'm Ahmed Ach-chatibi
 
-🎓 I'm a **Software Engineer**
+🎓 I'm a **Junior Software Engineer**
 💡 Passionate about building robust, efficient, and maintainable web applications.    
 🤝 Excited to collaborate with other developers and contribute to meaningful open-source projects.   
 Feel free to reach out or explore my repositories below.
